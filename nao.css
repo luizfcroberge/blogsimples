@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+
+.titulo{
+    font-size: 40px;
+    margin-top: 20px;
+    font-family: 'Modern Antiqua', serif;
+    color: #ff4848;
+    text-align: center;
+    cursor:default;
+}
+
+.foto1{
+    border-radius: 20px;
+    width: 250px;
+    margin: auto;
+    display: block;
+}
+
+.foto1:hover{
+    width: 275px;
+    transition: 0.3s;
+}

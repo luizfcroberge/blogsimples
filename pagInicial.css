@@ -1,0 +1,115 @@
+body{
+    background-color: rgb(67, 67, 67);
+}
+
+.div1{
+    background-color: black;
+    color: rgb(255, 72, 72);
+    text-align: center;
+    border-radius: 20px;
+    width: 500px;
+    margin: auto;
+    height: 100px;
+    padding-top: 5px;
+}
+
+.titulo{
+    font-size: 40px;
+    margin-top: 20px;
+    font-family: 'Modern Antiqua', serif;
+    cursor:default;
+}
+
+.link{
+    text-decoration: none;
+    color: rgb(255, 72, 72);
+    font-size: medium;
+    position: relative;
+    top: -20px;
+}
+
+.link:hover{
+    font-size: large;
+    transition: 0.2s;
+}
+
+.div2{
+    background-color: black;
+    border-radius: 20px; 
+    overflow: hidden;
+    margin-top: 30px;
+}
+
+.subT{
+    color: #ff4848;
+    text-align: center;
+    font-family: 'Modern Antiqua', serif;
+    cursor:default;
+}
+
+.foto1{
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 10px;
+    margin-right: 20px;
+    float: left;
+}
+
+.p1{
+    line-height: 1.6;
+    color: #ff4848;
+    font-size: large;
+    margin-top: 30px;
+    cursor:default;
+}
+
+.lista1{
+    line-height: 1.6;
+    color: #ff4848;
+    cursor:default;
+}
+
+.partFim{
+    text-align: center;
+}
+
+.subFim{
+    color: #ff4848;
+    cursor:default;
+}
+
+.bot1{
+    font-size: 20px;
+    margin-top: -10px;
+    margin-right: 20px;
+    color: black;
+    background-color: #ff4848;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.bot1:hover{
+    background-color: black;
+    color: #ff4848;
+    transition: 0.2s;
+}
+
+.bot2{
+    font-size: 20px;
+    margin-top: -10px;
+    margin-right: 20px;
+    color: black;
+    background-color: #ff4848;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.bot2:hover{
+    background-color: black;
+    color: #ff4848;
+    transition: 0.2s;
+}
